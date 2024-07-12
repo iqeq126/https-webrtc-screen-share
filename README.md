@@ -10,10 +10,12 @@
     sudo apt-get install mkcert
     # mac
     brew install mkcert
-    ##########################
+  </code></pre>
+  <pre><code>
     # 2. make key file
     mkcert -key-file ./key.pem -cert-file .cert.pem "localhost"
-
+  </code></pre>
+  <pre><code>
     # 3. set key "keys.pem", ".cert.pem" 
     # in "https-webrtc-screen-share/client" and "https-webrtc-screen-share/keys"
   </code></pre>
