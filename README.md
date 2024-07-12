@@ -31,6 +31,10 @@
   <p> 3. create room and enter {your IP address}:3000/room/{your room id}</p><br>
 
   <p> Notice! </p>
-  <p> 1. Existing rooms can be reused. </p> <br>
+  <p> 1. Existing rooms can be reused. </p>
   <p> 2. Screen sharing is only available to the second entered host.</p>
+  <br><br>
+  <p> Example </p>
+  <img src="https://github.com/user-attachments/assets/04a0bfa6-eca1-4728-adbb-d892e77500d0"/>
+  <img src="https://github.com/user-attachments/assets/8e025e86-269e-4a5f-afdc-a7b00aa8424d"/>
 </div>
